@@ -18,6 +18,26 @@ The application supports six languages and provides a personalized learning expe
 - **Dark Mode:** Switch between light and dark themes.
 - **Local Data Storage:** Preserve learning progress and preferences using SharedPreferences.
 
+## 📸 Application Screenshots
+
+### Main Dashboard
+![LinguaLearn main dashboard](screenshots/Main%20dashboard.jpeg)
+
+### Language Selection
+![LinguaLearn language selection screen](screenshots/Select%20language%20screen.jpeg)
+
+### Course Structure
+![LinguaLearn course structure screen](screenshots/Course%20structure%20screen.jpeg)
+
+### Vocabulary Library
+![LinguaLearn vocabulary library screen](screenshots/Vocabulary%20library%20screen.jpeg)
+
+### Progress and Statistics
+![LinguaLearn statistics screen](screenshots/Statistics%20screen.jpeg)
+
+### Profile and Settings
+![LinguaLearn profile and settings screen](screenshots/Profile%20setting%20screen.jpeg)
+
 ## 🛠️ Technologies Used
 
 - Flutter
